@@ -1,6 +1,6 @@
-Android-Chess
+android-chess
 =============
 
 speed-chess
 
-First person to get check wins! Throw away the archaic notions of strategy and end-game theory -- simply bum rush your opponent to secure victory!
+first person to get check wins! throw away the archaic notions of strategy and end-game theory -- simply bum-rush your opponent to secure victory!
